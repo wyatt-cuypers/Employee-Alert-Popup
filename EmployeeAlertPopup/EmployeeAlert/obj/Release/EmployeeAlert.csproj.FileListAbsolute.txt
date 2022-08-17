@@ -1,0 +1,10 @@
+H:\Source Code\employee-alert-popup\EmployeeAlertPopup\EmployeeAlert\bin\Release\AlertFormV2.exe.config
+H:\Source Code\employee-alert-popup\EmployeeAlertPopup\EmployeeAlert\bin\Release\AlertFormV2.exe
+H:\Source Code\employee-alert-popup\EmployeeAlertPopup\EmployeeAlert\bin\Release\AlertFormV2.pdb
+H:\Source Code\employee-alert-popup\EmployeeAlertPopup\EmployeeAlert\obj\Release\AlertFormV2.Form1.resources
+H:\Source Code\employee-alert-popup\EmployeeAlertPopup\EmployeeAlert\obj\Release\AlertFormV2.Properties.Resources.resources
+H:\Source Code\employee-alert-popup\EmployeeAlertPopup\EmployeeAlert\obj\Release\AlertFormV2.UpcomingEventsForm.resources
+H:\Source Code\employee-alert-popup\EmployeeAlertPopup\EmployeeAlert\obj\Release\EmployeeAlert.csproj.GenerateResource.cache
+H:\Source Code\employee-alert-popup\EmployeeAlertPopup\EmployeeAlert\obj\Release\EmployeeAlert.csproj.CoreCompileInputs.cache
+H:\Source Code\employee-alert-popup\EmployeeAlertPopup\EmployeeAlert\obj\Release\AlertFormV2.exe
+H:\Source Code\employee-alert-popup\EmployeeAlertPopup\EmployeeAlert\obj\Release\AlertFormV2.pdb
