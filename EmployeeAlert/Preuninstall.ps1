@@ -1,1 +1,0 @@
-Unregister-ScheduledTask -TaskName "Alert Popup" -Confirm:$false
